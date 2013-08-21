@@ -1,0 +1,1783 @@
+cityid,city,county
+3,Acampo,San Joaquin
+4,Acton,Los Angeles
+5,Adelaida,San Luis Obispo
+6,Adelanto,San Bernardino
+7,Adin,Modoc
+8,Agoura,Los Angeles
+9,Agoura Hills,Los Angeles
+10,Agua Caliente,Sonoma
+11,Agua Caliente Springs,San Diego
+12,Agua Dulce,Los Angeles
+13,Aguanga,Riverside
+14,Ahwahnee,Madera
+15,Al Tahoe,El Dorado
+16,Alameda,Alameda
+17,Alamo,Contra Costa
+18,Albany,Alameda
+19,Alberhill,Riverside
+20,Albion,Mendocino
+21,Alderpoint,Humboldt
+22,Alhambra,Los Angeles
+23,Aliso Viejo,Orange
+24,Alleghany,Sierra
+25,Almaden Valley,Santa Clara
+26,Almanor,Plumas
+27,Almondale,Los Angeles
+28,Alondra,Los Angeles
+29,Alpaugh,Tulare
+30,Alpine,San Diego
+31,Alta,Placer
+32,Alta Loma,San Bernardino
+33,Altadena,Los Angeles
+34,Altaville,Calaveras
+35,Alton,Humboldt
+36,Alturas,Modoc
+37,Alviso,Santa Clara
+38,Amador City,Amador
+39,Amargosa,Inyo
+40,Amboy,San Bernardino
+41,American Canyon,Napa
+42,Anaheim,Orange
+43,Anderson,Shasta
+44,Angels Camp,Calaveras
+45,Angelus Oaks,San Bernardino
+46,Angwin,Napa
+47,Annapolis,Sonoma
+48,Antelope,Sacramento
+49,Antelope Acres,Los Angeles
+50,Antioch,Contra Costa
+51,Anza,Riverside
+52,Apple Valley,San Bernardino
+53,Applegate,Placer
+54,Aptos,Santa Cruz
+55,Arbuckle,Colusa
+56,Arcadia,Los Angeles
+57,Arcata,Humboldt
+58,Argus,San Bernardino
+59,Arleta,Los Angeles
+60,Arlington,Riverside
+61,Armona,Kings
+62,Army Terminal,Alameda
+63,Arnold,Calaveras
+64,Aromas,Monterey
+65,Arrowbear Lake,San Bernardino
+66,Arrowhead Highlands,San Bernardino
+67,Arroyo Grande,San Luis Obispo
+68,Artesia,Los Angeles
+69,Artois,Glenn
+70,Arvin,Kern
+71,Ashland,Alameda
+72,Asti,Sonoma
+73,Atascadero,San Luis Obispo
+74,Athens,Los Angeles
+75,Atherton,San Mateo
+76,Atwater,Merced
+77,Atwood,Orange
+78,Auberry,Fresno
+79,Auburn,Placer
+80,Avalon,Los Angeles
+81,Avenal,Kings
+82,Avery,Calaveras
+83,Avila Beach,San Luis Obispo
+84,Azusa,Los Angeles
+85,Badger,Tulare
+86,Bailey,Los Angeles
+87,Baker,San Bernardino
+88,Bakersfield,Kern
+89,Balboa,Orange
+90,Balboa Island,Orange
+91,Balboa Park,San Diego
+92,Baldwin Park,Los Angeles
+93,Ballard,Santa Barbara
+94,Ballico,Merced
+95,Ballroad,Orange
+96,Bangor,Butte
+97,Banning,Riverside
+98,Banta,San Joaquin
+99,Bard,Imperial
+100,Barrington,Los Angeles
+101,Barstow,San Bernardino
+102,Bartlett,Inyo
+103,Barton,Fresno
+104,Base Line,San Bernardino
+105,Bass Lake,Madera
+106,Bassett,Los Angeles
+107,Baxter,Placer
+108,Bay Point,Contra Costa
+109,Bayside,Humboldt
+110,Baywood Park,San Luis Obispo
+111,Beale A.F.B.,Yuba
+112,Bear River Lake,Amador
+113,Bear Valley,Alpine
+114,Bear Valley,Mariposa
+115,Beaumont,Riverside
+116,Beckwourth,Plumas
+117,Bel Air Estates,Los Angeles
+118,Belden,Plumas
+119,Bell Gardens,Los Angeles
+120,Bell,Los Angeles
+121,Bella Vista,Shasta
+122,Bellflower,Los Angeles
+123,Belmont,San Mateo
+124,Belvedere,Marin
+125,Ben Lomond,Santa Cruz
+126,Benicia,Solano
+127,Benton,Mono
+128,Berkeley,Alameda
+129,Bermuda Dunes,Riverside
+130,Berry Creek,Butte
+131,Bethel Island,Contra Costa
+132,Betteravia,Santa Barbara
+133,Beverly Hills,Los Angeles
+134,Bieber,Lassen
+135,Big Bar,Trinity
+136,Big Basin,Santa Cruz
+137,Big Bear City,San Bernardino
+138,Big Bear Lake,San Bernardino
+139,Big Bend,Shasta
+140,Big Creek,Fresno
+141,Big Oak Flat,Tuolumne
+142,Big Pine,Inyo
+143,Big River,San Bernardino
+144,Big Sur,Monterey
+145,Biggs,Butte
+146,Bijou,El Dorado
+147,Biola,Fresno
+148,Biola College,Los Angeles
+149,Birds Landing,Solano
+150,Bishop,Inyo
+151,Black Hawk,Contra Costa
+152,Blairsden,Plumas
+153,Blocksburg,Humboldt
+154,Bloomington,San Bernardino
+155,Blossom Hill,Santa Clara
+156,Blossom Valley,Santa Clara
+157,Blue Jay,San Bernardino
+158,Blue Lake,Humboldt
+159,Blythe,Riverside
+160,Bodega,Sonoma
+161,Bodega Bay,Sonoma
+162,Bodfish,Kern
+163,Bolinas,Marin
+164,Bolsa,Orange
+165,Bombay Beach,Imperial
+166,Bonita,San Diego
+167,Bonny Doon,Santa Cruz
+168,Bonsall,San Diego
+169,Boonville,Mendocino
+170,Boron,Kern
+171,Borrego Springs,San Diego
+172,Bostonia,San Diego
+173,Boulder Creek,Santa Cruz
+174,Boulevard,San Diego
+175,Bouquet Canyon,Los Angeles
+176,Bowman,Placer
+177,Boyes Hot Springs,Sonoma
+178,Bradbury,Los Angeles
+179,Bradford,Alameda
+180,Bradley,Monterey
+181,Branscomb,Mendocino
+182,Brawley,Imperial
+183,Brea,Orange
+184,Brents Junction,Los Angeles
+185,Brentwood,Los Angeles
+186,Brentwood,Contra Costa
+187,Briceland,Humboldt
+188,Bridgeport,Mariposa
+189,Bridgeport,Mono
+190,Bridgeville,Humboldt
+191,Brisbane,San Mateo
+192,Broderick,Yolo
+193,Brookdale,Santa Cruz
+194,Brookhurst Center,Orange
+195,Brooks,Yolo
+196,Browns Valley,Yuba
+197,Brownsville,Yuba
+198,Bryn Mawr,San Bernardino
+199,Bryte,Yolo
+200,Buellton,Santa Barbara
+201,Buena Park,Orange
+202,Burbank,Los Angeles
+203,Burlingame,San Mateo
+204,Burney,Shasta
+205,Burnt Ranch,Trinity
+206,Burrel,Fresno
+207,Burson,Calaveras
+208,Butte City,Glenn
+209,Butte Meadows,Butte
+210,Buttonwillow,Kern
+211,Byron,Contra Costa
+212,Cabazon,Riverside
+213,Cabrillo,Los Angeles
+214,Cadiz,San Bernardino
+215,Calabasas Highlands,Los Angeles
+216,Calabasas Park,Los Angeles
+217,Calabasas,Los Angeles
+218,Calexico,Imperial
+219,Caliente,Kern
+220,California City,Kern
+221,California Hot Springs,Tulare
+222,California Valley,San Luis Obispo
+223,Calimesa,Riverside
+224,Calipatria,Imperial
+225,Calistoga,Napa
+226,Callahan,Siskiyou
+227,Calpella,Mendocino
+228,Calpine,Sierra
+229,Calwa,Fresno
+230,Camarillo,Ventura
+231,Cambria,San Luis Obispo
+232,Cambrian Park,Santa Clara
+233,Cameron Park,El Dorado
+234,Camino,El Dorado
+235,Camp Beale,Yuba
+236,Camp Connell,Calaveras
+237,Camp Curry,Mariposa
+238,Camp Kaweah,Tulare
+239,Camp Meeker,Sonoma
+240,Camp Nelson,Tulare
+241,Camp Pendleton,San Diego
+242,Camp Roberts,Monterey
+243,Campbell,Santa Clara
+244,Campo,San Diego
+245,Campo Seco,Calaveras
+246,Camptonville,Yuba
+247,Canby,Modoc
+248,Canoga Annex,Los Angeles
+249,Canoga Park,Los Angeles
+250,Cantil,Kern
+251,Cantua Creek,Fresno
+252,Canyon,Contra Costa
+253,Canyon Country,Los Angeles
+254,Canyon Lake,Riverside
+255,Canyondam,Plumas
+256,Capay,Yolo
+257,Capistrano Beach,Orange
+258,Capitola,Santa Cruz
+259,Cardiff By The Sea,San Diego
+260,Cardwell,Fresno
+261,Carlotta,Humboldt
+262,Carlsbad,San Diego
+263,Carmel Rancho,Monterey
+264,Carmel Valley,Monterey
+265,Carmel,Monterey
+266,Carmichael,Sacramento
+267,Carnelian Bay,Placer
+268,Carpinteria,Santa Barbara
+269,Carson,Los Angeles
+270,Cartago,Inyo
+271,Caruthers,Fresno
+272,Casitas Springs,Ventura
+273,Casmalia,Santa Barbara
+274,Caspar,Mendocino
+275,Cassel,Shasta
+276,Castaic,Los Angeles
+277,Castella,Shasta
+278,Castle A.F.B.,Merced
+279,Castro Valley,Alameda
+280,Castroville,Monterey
+281,Cathedral City,Riverside
+282,Catheys Valley,Mariposa
+283,Cayucos,San Luis Obispo
+284,Cazadero,Sonoma
+285,Cecilville,Siskiyou
+286,Cedar,Los Angeles
+287,Cedar Crest,Fresno
+288,Cedar Glen,San Bernardino
+289,Cedar Ridge,Nevada
+290,Cedarpines Park,San Bernardino
+291,Cedarville,Modoc
+292,Central Valley,Shasta
+293,Century City,Los Angeles
+294,Ceres,Stanislaus
+295,Cerritos,Los Angeles
+296,Challenge,Yuba
+297,Chambers Lodge,Placer
+298,Charter Oak,Los Angeles
+299,Chatsworth,Los Angeles
+300,Cherry Valley,Riverside
+301,Chester,Plumas
+302,Chicago Park,Nevada
+303,Chico,Butte
+304,Chilcoot,Plumas
+305,China Lake NWC,Kern
+306,Chinese Camp,Tuolumne
+307,Chino Hills,San Bernardino
+308,Chino,San Bernardino
+309,Chiriaco Summit,Riverside
+310,Cholame,San Luis Obispo
+311,Chowchilla,Madera
+312,Chualar,Monterey
+313,Chula Vista,San Diego
+314,Cima,San Bernardino
+315,Citrus Heights,Sacramento
+316,City of Commerce,Los Angeles
+317,City of Industry,Los Angeles
+318,City Terrace,Los Angeles
+319,Claremont,Los Angeles
+320,Clarksburg,Yolo
+321,Clayton,Contra Costa
+322,Clear Creek,Siskiyou
+323,Clearlake Highlands,Lake
+324,Clearlake Oaks,Lake
+325,Clearlake Park,Lake
+326,Clearlake,Lake
+327,Clements,San Joaquin
+328,Clinter,Fresno
+329,Clio,Plumas
+330,Clipper Mills,Butte
+331,Cloverdale,Sonoma
+332,Clovis,Fresno
+333,Coachella,Riverside
+334,Coalinga,Fresno
+335,Coarsegold,Madera
+336,Cobb,Lake
+337,Cohasset,Butte
+338,Cole,Los Angeles
+339,Coleville,Mono
+340,Colfax,Placer
+341,College City,Colusa
+342,College Grove Center,San Diego
+343,Colma,San Mateo
+344,Coloma,El Dorado
+345,Colorado,Mariposa
+346,Colton,San Bernardino
+347,Columbia,Tuolumne
+348,Colusa,Colusa
+349,Commerce,Los Angeles
+350,Comptche,Mendocino
+351,Compton,Los Angeles
+352,Concord,Contra Costa
+353,Cool,El Dorado
+354,Copperopolis,Calaveras
+355,Corcoran,Kings
+356,Cornell,Los Angeles
+357,Corning,Tehama
+358,Corona Del Mar,Orange
+359,Corona,Riverside
+360,Coronado,San Diego
+361,Corralitos,Santa Cruz
+362,Corte Madera,Marin
+363,Coso Junction,Inyo
+364,Costa Mesa,Orange
+365,Cotati,Sonoma
+366,Coto De Caza,Orange
+367,Cottonwood,Shasta
+368,Coulterville,Mariposa
+369,Courtland,Sacramento
+370,Covelo,Mendocino
+371,Covina,Los Angeles
+372,Cowan Heights,Orange
+373,Coyote,Santa Clara
+374,Crannell,Humboldt
+375,Crenshaw,Los Angeles
+376,Crescent City,Del Norte
+377,Crescent Mills,Plumas
+378,Cressey,Merced
+379,Crest,San Diego
+380,Crest Park,San Bernardino
+381,Cresta Blanca,Alameda
+382,Crestline,San Bernardino
+383,Creston,San Luis Obispo
+384,Crockett,Contra Costa
+385,Cromberg,Plumas
+386,Cross Roads,San Bernardino
+387,Crowley Lake,Mono
+388,Crows Landing,Stanislaus
+389,Cucamonga,San Bernardino
+390,Cudahy,Los Angeles
+391,Culver City,Los Angeles
+392,Cummings,Mendocino
+393,Cupertino,Santa Clara
+394,Curry Village,Mariposa
+395,Cutler,Tulare
+396,Cutten,Humboldt
+397,Cuyama,Santa Barbara
+398,Cypress,Orange 
+399,Daggett,San Bernardino
+400,Dairy Farm,Solano
+401,Daly City,San Mateo
+402,Dana Point,Orange
+403,Danville,Contra Costa
+404,Dardanelle,Tuolumne
+405,Darwin,Inyo
+406,Davenport,Santa Cruz
+407,Davis Creek,Modoc
+408,Davis,Yolo
+409,Death Valley,Inyo
+410,Death Valley Junction,Inyo
+411,Deer Park,Napa
+412,Del Kern,Kern
+413,Del Mar Heights,San Luis Obispo
+414,Del Mar,San Diego
+415,Del Monte Park,Monterey
+416,Del Rey,Fresno
+417,Del Rey Oaks,Monterey
+418,Del Rosa,San Bernardino
+419,Del Sur,Los Angeles
+420,Delano,Kern
+421,Deleven,Colusa
+422,Delhi,Merced
+423,Denair,Stanislaus
+424,Denny,Trinity
+425,Descanso,San Diego
+426,Desert Center,Riverside
+427,Desert Hot Springs,Riverside
+428,Di Giorgio,Kern
+429,Diablo,Contra Costa
+430,Diamond Bar,Los Angeles
+431,Diamond Springs,El Dorado
+432,Dillon Beach,Marin
+433,Dinkey Creek,Fresno
+434,Dinuba,Tulare
+435,Discovery Bay,Contra Costa
+436,Dixon,Solano
+437,Dobbins,Yuba
+438,Dogtown,Marin
+439,Dollar Ranch,Contra Costa
+440,Dorris,Siskiyou
+441,Dos Palos,Merced
+442,Dos Rios,Mendocino
+443,Douglas City,Trinity
+444,Douglas Flat,Calaveras
+445,Downey,Los Angeles
+446,Downieville,Sierra
+447,Doyle,Lassen
+448,Drytown,Amador
+449,Duarte,Los Angeles
+450,Dublin,Alameda
+451,Ducor,Tulare
+452,Dulzura,San Diego
+453,Duncans Mills,Sonoma
+454,Dunlap,Fresno
+455,Dunnigan,Yolo
+456,Dunsmuir,Siskiyou
+457,Durham,Butte
+458,Dutch Flat,Placer
+459,Eagle Mountain,Riverside
+460,Eagle Rock,Los Angeles
+461,Eagleville,Modoc
+462,Earlimart,Tulare
+463,Earp,San Bernardino
+464,East Highlands,San Bernardino
+465,East Irvine,Orange
+466,East Los Angeles,Los Angeles
+467,East Lynwood,Los Angeles
+468,East Nicolaus,Sutter
+469,East Palo Alto,San Mateo
+470,East Porterville,Tulare
+471,East Rancho Dominguez,Los Angeles
+472,East San Pedro,Los Angeles
+473,Eastgate,Los Angeles
+474,Easton,Fresno
+475,Eastside,San Bernardino
+476,Eastvale,Riverside
+477,Echo Lake,El Dorado
+478,Echo Park,Los Angeles
+479,Edgemont,Riverside
+480,Edgewood,Siskiyou
+481,Edison,Kern
+482,Edwards,Kern
+483,Edwards A.F.B.,Kern
+484,El Cajon,San Diego
+485,El Centro,Imperial
+486,El Cerrito,Contra Costa
+487,El Dorado,El Dorado
+488,El Dorado Hills,El Dorado
+489,El Granada,San Mateo
+490,El Macero,Yolo
+491,El Modena,Orange
+492,El Monte,Los Angeles
+493,El Nido,Merced
+494,El Portal,Mariposa
+495,El Segundo,Los Angeles
+496,El Sobrante,Contra Costa
+497,El Toro,Orange
+498,El Toro M.C.A.S.,Orange
+499,El Verano,Sonoma
+500,El Viejo,Stanislaus
+501,Eldridge,Sonoma
+502,Elizabeth Lake,Los Angeles
+503,Elk,Mendocino
+504,Elk Creek,Glenn
+505,Elk Grove,Sacramento
+506,Elmira,Solano
+507,Elmwood,Alameda
+508,Elverta,Sacramento
+509,Emerald Hills,San Mateo
+510,Emeryville,Alameda
+511,Emigrant Gap,Placer
+512,Empire,Stanislaus
+513,Encinitas,San Diego
+514,Encino,Los Angeles
+515,Enterprise,Shasta
+516,Escalon,San Joaquin
+517,Escondido,San Diego
+518,Esparto,Yolo
+519,Essex,San Bernardino
+520,Etiwanda,San Bernardino
+521,Etna,Siskiyou
+522,Ettersburg,Humboldt
+523,Eureka,Humboldt
+524,Exeter,Tulare
+525,Fair Oaks,Sacramento
+526,Fairfax,Marin
+527,Fairfield,Solano
+528,Fairmount,Contra Costa
+529,Fall River Mills,Shasta
+530,Fallbrook,San Diego
+531,Fallbrook Junction,San Diego
+532,Fallen Leaf,El Dorado
+533,Fallon,Marin
+534,Fancher,Fresno
+535,Farmersville,Tulare
+536,Farmington,San Joaquin
+537,Fawnskin,San Bernardino
+538,Feather Falls,Butte
+539,Fellows,Kern
+540,Felton,Santa Cruz
+541,Fenner,San Bernardino
+542,Fernbridge,Humboldt
+543,Ferndale,Humboldt
+544,Fiddletown,Amador
+545,Fields Landing,Humboldt
+546,Fig Garden Village,Fresno
+547,Fillmore,Ventura
+548,Finley,Lake
+549,Firebaugh,Fresno
+550,Fish Camp,Mariposa
+551,Five Points,Fresno
+552,Flinn Springs,San Diego
+553,Flintridge,Los Angeles
+554,Florence,Los Angeles
+555,Floriston,Nevada
+556,Flournoy,Tehama
+557,Folsom,Sacramento
+558,Fontana,San Bernardino
+559,Foothill Ranch,Orange
+560,Forbestown,Butte
+561,Forest Falls,San Bernardino
+562,Forest Glen,Trinity
+563,Forest Knolls,Marin
+564,Forest Park,Los Angeles
+565,Forest Ranch,Butte
+566,Foresthill,Placer
+567,Forestville,Sonoma
+568,Forks of Salmon,Siskiyou
+569,Fort Bidwell,Modoc
+570,Fort Bragg,Mendocino
+571,Fort Dick,Del Norte
+572,Fort Irwin,San Bernardino
+573,Fort Jones,Siskiyou
+574,Fort Ord,Monterey
+575,Fort Seward,Humboldt
+576,Fortuna,Humboldt
+577,Foster City,San Mateo
+578,Fountain Valley,Orange
+579,Fowler,Fresno
+580,Frazier Park,Kern
+581,Freedom,Santa Cruz
+582,Freedom,Santa Cruz
+583,Freeport,Sacramento
+584,Freestone,Sonoma
+585,Fremont,Alameda
+586,French Camp,San Joaquin
+587,French Gulch,Shasta
+588,Freshwater,Humboldt
+589,Fresno,Fresno
+590,Friant,Fresno
+591,Friendly Valley,Los Angeles
+592,Frontera,Riverside
+593,Fullerton,Orange
+594,Fulton,Sonoma
+595,Galt,Sacramento
+596,Garberville,Humboldt
+597,Garden Grove,Orange
+598,Garden Valley,El Dorado
+599,Gardena,Los Angeles
+600,Garey,Santa Barbara
+601,Garnet,Riverside
+602,Gasquet,Del Norte
+603,Gaviota,Santa Barbara
+604,Gazelle,Siskiyou
+605,George A.F.B.,San Bernardino
+606,Georgetown,El Dorado
+607,Gerber,Tehama
+608,Geyserville,Sonoma
+609,Giant Forest,Tulare
+610,Gillman Hot Springs,Riverside
+611,Gilroy,Santa Clara
+612,Glassell Park,Los Angeles
+613,Glen Avon,Riverside
+614,Glen Ellen,Sonoma
+615,Glenburn,Shasta
+616,Glencoe,Calaveras
+617,Glendale,Los Angeles
+618,Glendora,Los Angeles
+619,Glenhaven,Lake
+620,Glenn,Glenn
+621,Glennville,Kern
+622,Gold River,Sacramento
+623,Gold Run,Placer
+624,Golden Hills,Kern
+625,Goleta,Santa Barbara
+626,Gonzales,Monterey
+627,Goodyears Bar,Sierra
+628,Gorman,Los Angeles
+629,Goshen,Tulare
+630,Government Island,Alameda
+631,Graeagle,Plumas
+632,Granada Hills,Los Angeles
+633,Grand Terrace,San Bernardino
+634,Granite Bay,Placer
+635,Grass Valley,Nevada
+636,Graton,Sonoma
+637,Green Valley,Los Angeles
+638,Green Valley Lake,San Bernardino
+639,Greenacres,Kern
+640,Greenbrae,Marin
+641,Greenfield,Monterey
+642,Greenview,Siskiyou
+643,Greenville,Plumas
+644,Greenwood,El Dorado
+645,Grenada,Siskiyou
+646,Gridley,Butte
+647,Grimes,Colusa
+648,Grizzly Flats,El Dorado
+649,Groveland,Tuolumne
+650,Grover Beach,San Luis Obispo
+651,Guadalupe,Santa Barbara
+652,Gualala,Mendocino
+653,Guasti,San Bernardino
+654,Guatay,San Diego
+655,Guerneville,Sonoma
+656,Guinda,Yolo
+657,Gustine,Merced
+658,Hacienda Heights,Los Angeles
+659,Halcyon,San Luis Obispo
+660,Half Moon Bay,San Mateo
+661,Hamilton A.F.B.,Marin
+662,Hamilton City,Glenn
+663,Hanford,Kings
+664,Happy Camp,Siskiyou
+665,Harbison Canyon,San Diego
+666,Harbor City,Los Angeles
+667,Harmony,San Luis Obispo
+668,Harris,Humboldt
+669,Hat Creek,Shasta
+670,Hathaway Pines,Calaveras
+671,Havasu Lake,San Bernardino
+672,Hawaiian Gardens,Los Angeles
+673,Hawthorne,Los Angeles
+674,Hayfork,Trinity
+675,Hayward,Alameda
+676,Hazard,Los Angeles
+677,Healdsburg,Sonoma
+678,Heber,Imperial
+679,Helena,Trinity
+680,Helendale,San Bernardino
+681,Helm,Fresno
+682,Hemet,Riverside
+683,Herald,Sacramento
+684,Hercules,Contra Costa
+685,Herlong,Lassen
+686,Hermosa Beach,Los Angeles
+687,Herndon,Fresno
+688,Hesperia,San Bernardino
+689,Heyer,Alameda
+690,Hickman,Stanislaus
+691,Hidden Hills,Los Angeles
+692,Highgrove,Riverside
+693,Highland Park,Los Angeles
+694,Highland,San Bernardino
+695,Highway City,Fresno
+696,Hillcrest,San Diego
+697,Hillsborough,San Mateo
+698,Hillsdale,San Mateo
+699,Hilmar,Merced
+700,Hilt,Siskiyou
+701,Hinkley,San Bernardino
+702,Hobergs,Lake
+703,Hollister,San Benito
+704,Hollywood,Los Angeles
+705,Holmes,Humboldt
+706,Holt,San Joaquin
+707,Holtville,Imperial
+708,Holy City,Santa Clara
+709,Homeland,Riverside
+710,Homestead,Kern
+711,Homestead,Riverside
+712,Homewood,Placer
+713,Honby,Los Angeles
+714,Honeydew,Humboldt
+715,Hood,Sacramento
+716,Hoopa,Humboldt
+717,Hope Valley,Alpine
+718,Hopland,Mendocino
+719,Hornbrook,Siskiyou
+720,Hornitos,Mariposa
+721,Horse Creek,Siskiyou
+722,Horse Lake,Lassen
+723,Hughson,Stanislaus
+724,Hume,Fresno
+725,Huntington,Orange
+726,Huntington Beach,Orange
+727,Huntington Lake,Fresno
+728,Huntington Park,Los Angeles
+729,Huron,Fresno
+730,Hyampom,Trinity
+731,Hyde Park,Los Angeles
+732,Hydesville,Humboldt
+733,Idria,San Benito
+734,Idyllwild,Riverside
+735,Ignacio,Marin
+736,Igo,Shasta
+737,Imola,Napa
+738,Imperial Beach,San Diego
+739,Imperial,Imperial
+740,Independence,Inyo
+741,Indian Wells,Riverside
+742,Indio,Riverside
+743,Industry,Los Angeles
+744,Inglewood,Los Angeles
+745,Inverness,Marin
+746,Inyo,Inyo
+747,Inyokern,Kern
+748,Ione,Amador
+749,Iowa Hill,Placer
+750,Irvine,Orange
+751,Irwindale,Los Angeles
+752,Isla Vista,Santa Barbara
+753,Island Mountain,Trinity
+754,Isleton,Sacramento
+755,Ivanhoe,Tulare
+756,Ivanpah,San Bernardino
+757,Jackson,Amador
+758,Jacumba,San Diego
+759,Jamacha,San Diego
+760,Jamestown,Tuolumne
+761,Jamul,San Diego
+762,Janesville,Lassen
+763,Jenner,Sonoma
+764,Johannesburg,Kern
+765,Johnsondale,Tulare
+766,Johnstonville,Lassen
+767,Johnstown,San Diego
+768,Jolon,Monterey
+769,Joshua Tree,San Bernardino
+770,Julian,San Diego
+771,Junction City,Trinity
+772,June Lake,Mono
+773,Juniper,Lassen
+774,Jurupa Valley,Riverside
+775,Kagel Canyon,Los Angeles
+776,Kaweah,Tulare
+777,Keddie,Plumas
+778,Keeler,Inyo
+779,Keene,Kern
+780,Kelsey,El Dorado
+781,Kelseyville,Lake
+782,Kelso,San Bernardino
+783,Kensington,Contra Costa
+784,Kentfield,Marin
+785,Kenwood,Sonoma
+786,Kerman,Fresno
+787,Kernville,Kern
+788,Keswick,Shasta
+789,Kettleman City,Kings
+790,Keyes,Stanislaus
+791,King City,Monterey
+792,Kings Beach,Placer
+793,Kings Canyon National Park,Tulare
+794,Kingsburg,Fresno
+795,Kinyon,Siskiyou
+796,Kirkwood,Alpine
+797,Kit Carson,Amador
+798,Klamath,Del Norte
+799,Klamath River,Siskiyou
+800,Kneeland,Humboldt
+801,Knights Ferry,Stanislaus
+802,Knights Landing,Yolo
+803,Knightsen,Contra Costa
+804,Korbel,Humboldt
+805,Korbel,Sonoma
+806,Kyburz,El Dorado
+807,L.A. Airport,Los Angeles
+808,La Canada- Flintridge,Los Angeles
+809,La Crescenta,Los Angeles
+810,La Cresta Village,Kern
+811,La Grange,Stanislaus
+812,La Habra Heights,Los Angeles
+813,La Habra,Orange
+814,La Honda,San Mateo
+815,La Jolla,San Diego
+816,La Mesa,San Diego
+817,La Mirada,Los Angeles
+818,La Palma,Orange
+819,La Porte,Plumas
+820,La Puente,Los Angeles
+821,La Quinta,Riverside
+822,La Selva Beach,Santa Cruz
+823,La Verne,Los Angeles
+824,La Vina,Los Angeles
+825,Ladera,San Mateo
+826,Ladera Heights,Los Angeles
+827,Ladera Ranch,Orange
+828,Lafayette,Contra Costa
+829,Laguna Beach,Orange
+830,Laguna Hills,Orange
+831,Laguna Niguel,Orange
+832,Laguna Woods,Orange
+833,Lagunitas,Marin
+834,Lake Alpine,Alpine
+835,Lake Arrowhead,San Bernardino
+836,Lake City,Modoc
+837,Lake City,Nevada
+838,Lake Elsinore,Riverside
+839,Lake Forest,Orange
+840,Lake Hughes,Los Angeles
+841,Lake Isabella,Kern
+842,Lake Los Angeles,Los Angeles
+843,Lake Mary,Mono
+844,Lake San Marcos,San Diego
+845,Lake Shastina,Siskiyou
+846,Lake Sherwood,Ventura
+847,Lakehead,Shasta
+848,Lakeport,Lake
+849,Lakeshore,Fresno
+850,Lakeside,San Diego
+851,Lakeview,Riverside
+852,Lakeview Terrace,Los Angeles
+853,Lakewood,Los Angeles
+854,Lamont,Kern
+855,Lancaster,Los Angeles
+856,Landers,San Bernardino
+857,Landscape,Alameda
+858,Lang,Los Angeles
+859,Larkfield,Sonoma
+860,Larkspur,Marin
+861,Larwin Plaza,Solano
+862,Lathrop,San Joaquin
+863,Laton,Fresno
+864,Lawndale,Los Angeles
+865,Laws,Inyo
+866,Laytonville,Mendocino
+867,Le Grand,Merced
+868,Lebec,Kern
+869,Lee Vining,Mono
+870,Leggett,Mendocino
+871,Leisure World,Orange
+872,Leisure World,Orange
+873,Lemon Grove,San Diego
+874,Lemoncove,Tulare
+875,Lemoore,Kings
+876,Lennox,Los Angeles
+877,Lenwood,San Bernardino
+878,Leona Valley,Los Angeles
+879,Leucadia,San Diego
+880,Lewiston,Trinity
+881,Liberty Farms,Solano
+882,Likely,Modoc
+883,Lincoln Acres,San Diego
+884,Lincoln Heights,Los Angeles
+885,Lincoln Village,San Joaquin
+886,Lincoln,Placer
+887,Linda,Yuba
+888,Linden,San Joaquin
+889,Lindsay,Tulare
+890,Linnell,Tulare
+891,Litchfield,Lassen
+892,Little Lake,Inyo
+893,Little Norway,El Dorado
+894,Little Valley,Lassen
+895,Littleriver,Mendocino
+896,Littlerock,Los Angeles
+897,Live Oak ,Santa Cruz
+898,Live Oak,Sutter
+899,Livermore,Alameda
+900,Livingston,Merced
+901,Llano,Los Angeles
+902,Loch Lomond,Lake
+903,Locke,Sacramento
+904,Lockeford,San Joaquin
+905,Lockheed,Santa Cruz
+906,Lockwood,Monterey
+907,Lodi,San Joaquin
+908,Loleta,Humboldt
+909,Loma Linda,San Bernardino
+910,Loma Mar,San Mateo
+911,Loma Rica,Yuba
+912,Lomita,Los Angeles
+913,Lompoc,Santa Barbara
+914,London,Tulare
+915,Lone Pine,Inyo
+916,Long Barn,Tuolumne
+917,Long Beach,Los Angeles
+918,Longview,Los Angeles
+919,Lookout,Modoc
+920,Loomis,Placer
+921,Lorre Estates,Santa Clara
+922,Los Alamitos,Orange
+923,Los Alamos,Santa Barbara
+924,Los Altos Hills,Santa Clara
+925,Los Altos,Santa Clara
+926,Los Angeles,Los Angeles
+927,Los Banos,Merced
+928,Los Gatos,Santa Clara
+929,Los Molinos,Tehama
+930,Los Nietos,Los Angeles
+931,Los Olivos,Santa Barbara
+932,Los Osos,San Luis Obispo
+933,Los Padres,San Luis Obispo
+934,Los Serranos,San Bernardino
+935,Lost Hills,Kern
+936,Lost Lake,Riverside
+937,Lotus,El Dorado
+938,Lower Lake,Lake
+939,Loyalton,Sierra
+940,Lucerne,Lake
+941,Lucerne Valley,San Bernardino
+942,Lucia,Monterey
+943,Ludlow,San Bernardino
+944,Lugo,Los Angeles
+945,Lynwood,Los Angeles
+946,Lytle Creek,San Bernardino
+947,Macdoel,Siskiyou
+948,Maclay,Los Angeles
+949,Mad River,Trinity
+950,Madeline,Lassen
+951,Madera,Madera
+952,Madison,Yolo
+953,Magalia,Butte
+954,Malaga,Fresno
+955,Malibu,Los Angeles
+956,Mammoth Lakes,Mono
+957,Manhattan Beach,Los Angeles
+958,Manteca,San Joaquin
+959,Manton,Tehama
+960,Manzanita Lake,Shasta
+961,Mar Vista,Los Angeles
+962,Marcelina,Los Angeles
+963,March A.F.B.,Riverside
+964,Mare Island,Solano
+965,Maricopa,Kern
+966,Marin City,Marin
+967,Marina Del Rey,Los Angeles
+968,Marina,Monterey
+969,Marine Corps,San Bernardino
+970,Mariner,Orange
+971,Mariposa,Mariposa
+972,Markleeville,Alpine
+973,Marsh Manor,San Mateo
+974,Marshall,Marin
+975,Martell,Amador
+976,Martinez,Contra Costa
+977,Marysville,Yuba
+978,Mather,Tuolumne
+979,Mather ,Sacramento
+980,Maxwell,Colusa
+981,Maywood,Los Angeles
+982,McArthur,Shasta
+983,McClellan,Sacramento
+984,McCloud,Siskiyou
+985,McFarland,Kern
+986,McKinleyville,Humboldt
+987,McKittrick,Kern
+988,Mead Valley,Riverside
+989,Meadow Valley,Plumas
+990,Meadow Vista,Placer
+991,Meadowbrook,Riverside
+992,Mecca,Riverside
+993,Meeks Bay,El Dorado
+994,Meiners Oaks,Ventura
+995,Mendocino,Mendocino
+996,Mendota,Fresno
+997,Menifee,Riverside
+998,Menlo Park,San Mateo
+999,Mentone,San Bernardino
+1000,Merced,Merced
+1001,Meridian,Sutter
+1002,Mettler,Kern
+1003,Meyers,El Dorado
+1004,Middletown,Lake
+1005,Midland,Riverside
+1006,Midpines,Mariposa
+1007,Midway City,Orange
+1008,Milford,Lassen
+1009,Mill Creek,Tehama
+1010,Mill Valley,Marin
+1011,Millbrae,San Mateo
+1012,Millville,Shasta
+1013,Milpitas,Santa Clara
+1014,Mineral,Tehama
+1015,Mineral King,Tulare
+1016,Mint Canyon,Los Angeles
+1017,Mira Loma,Riverside
+1018,Mira Vista,Contra Costa
+1019,Miracle Hot Springs,Kern
+1020,Miramar,San Diego
+1021,Miramonte,Fresno
+1022,Miranda,Humboldt
+1023,Mission Hills,Los Angeles
+1024,Mission Viejo,Orange
+1025,Mi-Wuk Village,Tuolumne
+1026,Moccasin,Tuolumne
+1027,Modesto,Stanislaus
+1028,Moffett Field,Santa Clara
+1029,Mojave,Kern
+1030,Mokelumne Hill,Calaveras
+1031,Monarch Beach,Orange
+1032,Moneta,Los Angeles
+1033,Mono Hot Springs,Fresno
+1034,Mono Lake,Mono
+1035,Monolith,Kern
+1036,Monrovia,Los Angeles
+1037,Monta Vista,Santa Clara
+1038,Montague,Siskiyou
+1039,Montalvo,Ventura
+1040,Montara,San Mateo
+1041,Montclair,San Bernardino
+1042,Monte Rio,Sonoma
+1043,Monte Sereno,Santa Clara
+1044,Montebello,Los Angeles
+1045,Montecito,Santa Barbara
+1046,Monterey Bay Academy,Santa Cruz
+1047,Monterey Park,Los Angeles
+1048,Monterey,Monterey
+1049,Montgomery Creek,Shasta
+1050,Montrose,Los Angeles
+1051,Mooney,Tulare
+1052,Moonridge,San Bernardino
+1053,Moorpark,Ventura
+1054,Moraga,Contra Costa
+1055,Moreno Valley,Riverside
+1056,Morgan Hill,Santa Clara
+1057,Morongo Valley,San Bernardino
+1058,Morro Bay,San Luis Obispo
+1059,Morro Plaza,San Luis Obispo
+1060,Moss Beach,San Mateo
+1061,Moss Landing,Monterey
+1062,Mount Hamilton,Santa Clara
+1063,Mount Hebron,Siskiyou
+1064,Mount Hermon,Santa Cruz
+1065,Mount Laguna,San Diego
+1066,Mount Shasta,Siskiyou
+1067,Mount Wilson,Los Angeles
+1068,Mountain Center,Riverside
+1069,Mountain Mesa,Kern
+1070,Mountain Pass,San Bernardino
+1071,Mountain Ranch,Calaveras
+1072,Mountain View,Santa Clara
+1073,Mt. Aukum,El Dorado
+1074,Mt. Baldy,San Bernardino
+1075,Murphys,Calaveras
+1076,Murrieta,Riverside
+1077,Muscoy,San Bernardino
+1078,Myers Flat,Humboldt
+1079,Napa,Napa
+1080,Naples,Los Angeles
+1081,Nashville,El Dorado
+1082,National City,San Diego
+1083,Naval Port Hueneme,Ventura
+1084,Naval Air Station San Diego,San Diego
+1085,Naval Air Station Alameda,Alameda
+1086,Naval Air Station Coronado,San Diego
+1087,Naval Air Station Lemoore,Kings
+1088,Naval Hospital Oakland,Alameda
+1089,Naval Hospital,San Diego
+1090,Naval Supply Center Oakland,Alameda
+1091,Naval Training Center,San Diego
+1092,Navarro,Mendocino
+1093,Needles,San Bernardino
+1094,Nelson,Butte
+1095,Nevada City,Nevada
+1096,New Almaden,Santa Clara
+1097,New Cuyama,Santa Barbara
+1098,New Idria,San Benito
+1099,Newark,Alameda
+1100,Newberry,San Bernardino
+1101,Newberry Springs,San Bernardino
+1102,Newbury Park,Ventura
+1103,Newcastle,Placer
+1104,Newhall,Los Angeles
+1105,Newman,Stanislaus
+1106,Newport Beach,Orange
+1107,Nicasio,Marin
+1108,Nice,Lake
+1109,Nicolaus,Sutter
+1110,Niland,Imperial
+1111,Nipomo,San Luis Obispo
+1112,Nipton,San Bernardino
+1113,Norco,Riverside
+1114,Norden,Nevada
+1115,North Edwards,Kern
+1116,North Fork,Madera
+1117,North Gardena,Los Angeles
+1118,North Highlands,Sacramento
+1119,North Hills,Los Angeles
+1120,North Hollywood,Los Angeles
+1121,North Palm Springs,Riverside
+1122,North San Juan,Nevada
+1123,North Shore,Riverside
+1124,Northridge,Los Angeles
+1125,Norton A.F.B.,San Bernardino
+1126,Norwalk,Los Angeles
+1127,Novato,Marin
+1128,Nubieber,Lassen
+1129,Nuevo,Riverside
+1130,Nyeland Acres,Ventura
+1131,Oak Park,Ventura
+1132,Oak Run,Shasta
+1133,Oak View,Ventura
+1134,Oakdale,Stanislaus
+1135,Oakhurst,Madera
+1136,Oakland,Alameda
+1137,Oakley,Contra Costa
+1138,Oakville,Napa
+1139,Oasis,Riverside
+1140,Oban,Los Angeles
+1141,O'Brien,Shasta
+1142,Occidental,Sonoma
+1143,Oceano,San Luis Obispo
+1144,Oceanside,San Diego
+1145,Ocotillo,Imperial
+1146,Ocotillo Wells,San Diego
+1147,Oildale,Kern
+1148,Ojai,Ventura
+1149,Olancha,Inyo
+1150,Old Station,Shasta
+1151,Olema,Marin
+1152,Olinda,Shasta
+1153,Olive View,Los Angeles
+1154,Olivehurst,Yuba
+1155,Olivenhain,San Diego
+1156,Olympic Valley,Placer
+1157,Omo Ranch,El Dorado
+1158,O'Neals,Madera
+1159,Ono,Shasta
+1160,Ontario,San Bernardino
+1161,Onyx,Kern
+1162,Opal Cliffs,Santa Cruz
+1163,Orange Cove,Fresno
+1164,Orange,Orange
+1165,Orangevale,Sacramento
+1166,Orcutt,Santa Barbara
+1167,Ordbend,Glenn
+1168,Oregon House,Yuba
+1169,Orick,Humboldt
+1170,Orinda,Contra Costa
+1171,Orland,Glenn
+1172,Orleans,Humboldt
+1173,Oro Grande,San Bernardino
+1174,Orosi,Tulare
+1175,Oroville,Butte
+1176,Otay,San Diego
+1177,Oxnard,Ventura
+1178,Pacheco,Contra Costa
+1179,Pacific Grove,Monterey
+1180,Pacific House,El Dorado
+1181,Pacific Palisades,Los Angeles
+1182,Pacifica,San Mateo
+1183,Pacoima,Los Angeles
+1184,Paicines,San Benito
+1185,Pajaro,Monterey
+1186,Pala,San Diego
+1187,Palermo,Butte
+1188,Pallett,Los Angeles
+1189,Palm City,Riverside
+1190,Palm City,San Diego
+1191,Palm Desert,Riverside
+1192,Palm Springs,Riverside
+1193,Palmdale,Los Angeles
+1194,Palo Alto,Santa Clara
+1195,Palo Cedro,Shasta
+1196,Palo Verde,Imperial
+1197,Palomar Mountain,San Diego
+1198,Palos Verdes Estates,Los Angeles
+1199,Palos Verdes/Peninsula,Los Angeles
+1200,Panorama City,Los Angeles
+1201,Paradise,Butte
+1202,Paramount,Los Angeles
+1203,Parker Dam,San Bernardino
+1204,Parkfield,Monterey
+1205,Parlier,Fresno
+1206,Pasadena,Los Angeles
+1207,Paskenta,Tehama
+1208,Paso Robles,San Luis Obispo
+1209,Patterson,Stanislaus
+1210,Patton,San Bernardino
+1211,Pauma Valley,San Diego
+1212,Paynes Creek,Tehama
+1213,Pearblossom,Los Angeles
+1214,Pearland,Los Angeles
+1215,Pebble Beach,Monterey
+1216,Pedley,Riverside
+1217,Peninsula Village,Plumas
+1218,Penn Valley,Nevada
+1219,Penngrove,Sonoma
+1220,Penryn,Placer
+1221,Pepperwood,Humboldt
+1222,Permanente,Santa Clara
+1223,Perris,Riverside
+1224,Perry,Los Angeles
+1225,Pescadero,San Mateo
+1226,Petaluma,Sonoma
+1227,Petrolia,Humboldt
+1228,Phelan,San Bernardino
+1229,Phillipsville,Humboldt
+1230,Philo,Mendocino
+1231,Pico Rivera,Los Angeles
+1232,Piedmont,Alameda
+1233,Piedra,Fresno
+1234,Piercy,Mendocino
+1235,Pilot Hill,El Dorado
+1236,Pine Grove,Amador
+1237,Pine Valley,San Diego
+1238,Pinecrest,Tuolumne
+1239,Pinedale,Fresno
+1240,Pinetree,Los Angeles
+1241,Pinole,Contra Costa
+1242,Pinon Hills,San Bernardino
+1243,Pioneer,Amador
+1244,Pioneertown,San Bernardino
+1245,Piru,Ventura
+1246,Pismo Beach,San Luis Obispo
+1247,Pittsburg,Contra Costa
+1248,Pixley,Tulare
+1249,Placentia,Orange
+1250,Placerville,El Dorado
+1251,Plainview,Tulare
+1252,Planada,Merced
+1253,Plaster City,Imperial
+1254,Platina,Shasta
+1255,Playa Del Rey,Los Angeles
+1256,Pleasant Grove,Sutter
+1257,Pleasant Hill,Contra Costa
+1258,Pleasanton,Alameda
+1259,Plymouth,Amador
+1260,Point Arena,Mendocino
+1261,Point Mugu,Ventura
+1262,Point Pittsburg,Contra Costa
+1263,Point Reyes Station,Marin
+1264,Pollock Pines,El Dorado
+1265,Pomona,Los Angeles
+1266,Pond,Kern
+1267,Pondosa,Siskiyou
+1268,Pope Valley,Napa
+1269,Poplar,Tulare
+1270,Port Costa,Contra Costa
+1271,Port Hueneme,Ventura
+1272,Porter Ranch,Los Angeles
+1273,Porterville,Tulare
+1274,Portola Valley,San Mateo
+1275,Portola,Plumas
+1276,Portuguese Bend,Los Angeles
+1277,Posey,Tulare
+1278,Potrero,San Diego
+1279,Potter Valley,Mendocino
+1280,Poway,San Diego
+1281,Prather,Fresno
+1282,Presidio,San Francisco
+1283,Presidio of Monterey,Monterey
+1284,Priest Valley,Monterey
+1285,Princeton,Colusa
+1286,Proberta,Tehama
+1287,Project City,Shasta
+1288,Prunedale,Monterey
+1289,Pt. Dume,Los Angeles
+1290,Pulga,Butte
+1291,Pumpkin Center,Kern
+1292,Quail Valley,Riverside
+1293,Quartz Hill,Los Angeles
+1294,Quincy,Plumas
+1295,Rackerby,Yuba
+1296,Rail Road Flat,Calaveras
+1297,Rainbow,San Diego
+1298,Raisin City,Fresno
+1299,Ramona,San Diego
+1300,Ranchita,San Diego
+1301,Rancho Bernardo,San Diego
+1302,Rancho California,Riverside
+1303,Rancho Cordova ,Sacramento
+1304,Rancho Cucamonga,San Bernardino
+1305,Rancho Dominguez,Los Angeles
+1306,Rancho Mirage,Riverside
+1307,Rancho Murieta,Sacramento
+1308,Rancho Palos Verdes,Los Angeles
+1309,Rancho Park,Los Angeles
+1310,Rancho Santa Fe,San Diego
+1311,Rancho Santa Margarita,Orange
+1312,Randsburg,Kern
+1313,Ravendale,Lassen
+1314,Ravenna,Los Angeles
+1315,Raymond,Madera
+1316,Red Bluff,Tehama
+1317,Red Mountain,San Bernardino
+1318,Red Top,Madera
+1319,Redcrest,Humboldt
+1320,Redding,Shasta
+1321,Redlands,San Bernardino
+1322,Redondo Beach,Los Angeles
+1323,Redway,Humboldt
+1324,Redwood City,San Mateo
+1325,Redwood Estates,Santa Clara
+1326,Redwood Valley,Mendocino
+1327,Reedley,Fresno
+1328,Refugio Beach,Santa Barbara
+1329,Represa,Sacramento
+1330,Requa,Del Norte
+1331,Rescue,El Dorado
+1332,Reseda,Los Angeles
+1333,Rheem Valley,Contra Costa
+1334,Rialto,San Bernardino
+1335,Richardson Grove,Humboldt
+1336,Richardson Springs,Butte
+1337,Richfield,Tehama
+1338,Richgrove,Tulare
+1339,Richmond,Contra Costa
+1340,Richvale,Butte
+1341,Ridgecrest,Kern
+1342,Rimforest,San Bernardino
+1343,Rimpau,Los Angeles
+1344,Rio Bravo,Kern
+1345,Rio Del Mar,Santa Cruz
+1346,Rio Dell,Humboldt
+1347,Rio Linda,Sacramento
+1348,Rio Nido,Sonoma
+1349,Rio Oso,Sutter
+1350,Rio Vista,Solano
+1351,Ripley,Riverside
+1352,Ripon,San Joaquin
+1353,River Pines,Amador
+1354,Riverbank,Stanislaus
+1355,Riverdale,Fresno
+1356,Riverside,Riverside
+1357,Robbins,Sutter
+1358,Rocklin,Placer
+1359,Rodeo,Contra Costa
+1360,Rohnert Park,Sonoma
+1361,Rohnerville,Humboldt
+1362,Rolling Hills Estates,Los Angeles
+1363,Rolling Hills,Los Angeles
+1364,Romoland,Riverside
+1365,Rosamond,Kern
+1366,Rose Bowl,Los Angeles
+1367,Roseland,Sonoma
+1368,Rosemead,Los Angeles
+1369,Roseville,Placer
+1370,Ross,Marin
+1371,Rossmoor,Orange
+1372,Rough and Ready,Nevada
+1373,Round Mountain,Shasta
+1374,Rowland Heights,Los Angeles
+1375,Royal Oaks,Monterey
+1376,Rubidoux,Riverside
+1377,Ruby Valley,Humboldt
+1378,Rumsey,Yolo
+1379,Running Springs,San Bernardino
+1380,Ruth,Trinity
+1381,Rutherford,Napa
+1382,Ryde,Sacramento
+1383,Sacramento,Sacramento
+1384,Saint Helena,Napa
+1385,Salida,Stanislaus
+1386,Salinas,Monterey
+1387,Salton City,Imperial
+1388,Salyer,Trinity
+1389,Samoa,Humboldt
+1390,San Andreas,Calaveras
+1391,San Anselmo,Marin
+1392,San Ardo,Monterey
+1393,San Benito,San Benito
+1394,San Bernardino,San Bernardino
+1395,San Bruno,San Mateo
+1396,San Carlos,San Diego
+1397,San Carlos,San Mateo
+1398,San Clemente,Orange
+1399,San Diego,San Diego
+1400,San Dimas,Los Angeles
+1401,San Fernando,Los Angeles
+1402,San Francisco,San Francisco
+1403,San Gabriel,Los Angeles
+1404,San Geronimo,Marin
+1405,San Gregorio,San Mateo
+1406,San Jacinto,Riverside
+1407,San Joaquin,Fresno
+1408,San Jose,Santa Clara
+1409,San Juan Bautista,San Benito
+1410,San Juan Capistrano,Orange
+1411,San Juan Plaza,Orange
+1412,San Leandro,Alameda
+1413,San Lorenzo,Alameda
+1414,San Lucas,Monterey
+1415,San Luis Obispo,San Luis Obispo
+1416,San Luis Rey,San Diego
+1417,San Marcos,San Diego
+1418,San Marino,Los Angeles
+1419,San Martin,Santa Clara
+1420,San Mateo,San Mateo
+1421,San Miguel,San Luis Obispo
+1422,San Pablo,Contra Costa
+1423,San Pedro,Los Angeles
+1424,San Quentin,Marin
+1425,San Rafael,Marin
+1426,San Ramon,Contra Costa
+1427,San Simeon,San Luis Obispo
+1428,San Tomas,Santa Clara
+1429,San Ysidro,San Diego
+1430,Sand City,Monterey
+1431,Sanger,Fresno
+1432,Santa Ana,Orange
+1433,Santa Barbara,Santa Barbara
+1434,Santa Clara,Santa Clara
+1435,Santa Clarita,Los Angeles
+1436,Santa Cruz,Santa Cruz
+1437,Santa Fe Springs,Los Angeles
+1438,Santa Margarita,San Luis Obispo
+1439,Santa Maria,Santa Barbara
+1440,Santa Monica,Los Angeles
+1441,Santa Nella,Merced
+1442,Santa Paula,Ventura
+1443,Santa Rita Park,Merced
+1444,Santa Rosa,Sonoma
+1445,Santa Rosa Valley,Ventura
+1446,Santa Ynez,Santa Barbara
+1447,Santa Ysabel,San Diego
+1448,Santee,San Diego
+1449,Saratoga,Santa Clara
+1450,Saticoy,Ventura
+1451,Sattley,Sierra
+1452,Saugus,Los Angeles
+1453,Sausalito,Marin
+1454,Sawtelle,Los Angeles
+1455,Sawyers Bar,Siskiyou
+1456,Scotia,Humboldt
+1457,Scott Bar,Siskiyou
+1458,Scotts Valley,Santa Cruz
+1459,Sea Ranch,Sonoma
+1460,Seabright,Santa Cruz
+1461,Seal Beach,Orange
+1462,Seaside,Monterey
+1463,Sebastopol,Sonoma
+1464,Seeley,Imperial
+1465,Seiad Valley,Siskiyou
+1466,Selby,Contra Costa
+1467,Selma,Fresno
+1468,Seminole Hot Springs,Los Angeles
+1469,Sepulveda,Los Angeles
+1470,Sequoia National Park,Tulare
+1471,Shafter,Kern
+1472,Shandon,San Luis Obispo
+1473,Sharpe Army Depot,San Joaquin
+1474,Shasta,Shasta
+1475,Shasta Lake,Shasta
+1476,Shaver Lake,Fresno
+1477,Sheepranch,Calaveras
+1478,Shell Beach,San Luis Obispo
+1479,Sheridan,Placer
+1480,Sherman Island,Sacramento
+1481,Sherman Oaks,Los Angeles
+1482,Sherwin Plaza,Mono
+1483,Shingle Springs,El Dorado
+1484,Shingletown,Shasta
+1485,Shively,Humboldt
+1486,Shore Acres,Contra Costa
+1487,Shoshone,Inyo
+1488,Sierra City,Sierra
+1489,Sierra Madre,Los Angeles
+1490,Sierraville,Sierra
+1491,Signal Hill,Los Angeles
+1492,Silver Lake,Amador
+1493,Silverado Canyon,Orange
+1494,Simi Valley,Ventura
+1495,Sisquoc,Santa Barbara
+1496,Sites,Colusa
+1497,Sky Valley,Riverside
+1498,Skyforest,San Bernardino
+1499,Sleepy Valley,Los Angeles
+1500,Sloat,Plumas
+1501,Sloughhouse,Sacramento
+1502,Smartsville,Yuba
+1503,Smith River,Del Norte
+1504,Smithflat,El Dorado
+1505,Smoke Tree,San Bernardino
+1506,Snelling,Merced
+1507,Soda Springs,Nevada
+1508,Solana Beach,San Diego
+1509,Soledad,Monterey
+1510,Solemint,Los Angeles
+1511,Solvang,Santa Barbara
+1512,Somerset,El Dorado
+1513,Somes Bar,Siskiyou
+1514,Somis,Ventura
+1515,Sonoma,Sonoma
+1516,Sonora,Tuolumne
+1517,Soquel,Santa Cruz
+1518,Soulsbyville,Tuolumne
+1519,South Dos Palos,Merced
+1520,South El Monte,Los Angeles
+1521,South Fork,Humboldt
+1522,South Gate,Los Angeles
+1523,South Laguna,Orange
+1524,South Lake Tahoe,El Dorado
+1525,South Pasadena,Los Angeles
+1526,South San Francisco,San Mateo
+1527,South Shore,Alameda
+1528,South Whittier,Los Angeles
+1529,Spanish Flat,Napa
+1530,Spreckels,Monterey
+1531,Spring Garden,Plumas
+1532,Spring Valley,San Diego
+1533,Springville,Tulare
+1534,Spyrock,Mendocino
+1535,Squaw Valley,Fresno
+1536,St. Helena,Napa
+1537,Standard,Tuolumne
+1538,Standish,Lassen
+1539,Stanford,Santa Clara
+1540,Stanislaus,Tuolumne
+1541,Stanton,Orange
+1542,Steele Park,Napa
+1543,Stevenson Ranch,Los Angeles
+1544,Stevinson,Merced
+1545,Stewarts Point,Sonoma
+1546,Stinson Beach,Marin
+1547,Stirling City,Butte
+1548,Stockton,San Joaquin
+1549,Stonyford,Colusa
+1550,Storrie,Plumas
+1551,Stratford,Kings
+1552,Strathmore,Tulare
+1553,Strawberry,Tuolumne
+1554,Strawberry Valley,Yuba
+1555,Studio City,Los Angeles
+1556,Sugarloaf,San Bernardino
+1557,Suisun City,Solano
+1558,Sulphur Springs,Los Angeles
+1559,Sultana,Tulare
+1560,Summerland,Santa Barbara
+1561,Summit,San Bernardino
+1562,Summit City,Shasta
+1563,Sun City,Riverside
+1564,Sun Valley,Los Angeles
+1565,Sunland,Los Angeles
+1566,Sunnymead,Riverside
+1567,Sunnyside,San Diego
+1568,Sunnyvale,Santa Clara
+1569,Sunol,Alameda
+1570,Sunset Beach,Orange
+1571,Sunset Whitney Ranch,Placer
+1572,Surfside,Orange
+1573,Susanville,Lassen
+1574,Sutter,Sutter
+1575,Sutter Creek,Amador
+1576,Swall Meadows,Inyo
+1577,Sylmar,Los Angeles
+1578,Taft,Kern
+1579,Tagus Ranch,Tulare
+1580,Tahoe City,Placer
+1581,Tahoe Paradise,El Dorado
+1582,Tahoe Valley,El Dorado
+1583,Tahoe Vista,Placer
+1584,Tahoma,Placer
+1585,Talmage,Mendocino
+1586,Tamal,Marin
+1587,Tarzana,Los Angeles
+1588,Taylorsville,Plumas
+1589,Tecate,San Diego
+1590,Tecopa,Inyo
+1591,Tehachapi,Kern
+1592,Tehama,Tehama
+1593,Temecula,Riverside
+1594,Temple City,Los Angeles
+1595,Templeton,San Luis Obispo
+1596,Terminal Island,Los Angeles
+1597,Termo,Lassen
+1598,Terra Bella,Tulare
+1599,Thermal,Riverside
+1600,Thornton,San Joaquin
+1601,Thousand Oaks,Ventura
+1602,Thousand Palms,Riverside
+1603,Three Rivers,Tulare
+1604,Tiburon,Marin
+1605,Tierra Del Sol,San Diego
+1606,Tierrasanta,San Diego
+1607,Tipton,Tulare
+1608,Tollhouse,Fresno
+1609,Toluca Lake,Los Angeles
+1610,Tomales,Marin
+1611,Toms Place,Mono
+1612,Topanga,Los Angeles
+1613,Topanga Park,Los Angeles
+1614,Topaz,Mono
+1615,Torrance,Los Angeles
+1616,Town Center,Tulare
+1617,Trabuco Canyon,Orange
+1618,Tracy,San Joaquin
+1619,Tranquillity,Fresno
+1620,Traver,Tulare
+1621,Travis A.F.B.,Solano
+1622,Tres Pinos,San Benito
+1623,Trinidad,Humboldt
+1624,Trinity Center,Trinity
+1625,Trona,San Bernardino
+1626,Trowbridge,Sutter
+1627,Truckee,Nevada
+1628,Tujunga,Los Angeles
+1629,Tulare,Tulare
+1630,Tulelake,Siskiyou
+1631,Tuolumne,Tuolumne
+1632,Tuolumne Meadows,Mariposa
+1633,Tupman,Kern
+1634,Turlock,Stanislaus
+1635,Tustin,Orange
+1636,Twain,Plumas
+1637,Twain Harte,Tuolumne
+1638,Twentynine Palms,San Bernardino
+1639,Twin Bridges,El Dorado
+1640,Twin Peaks,San Bernardino
+1641,Two Rock Coast Guard Station,Sonoma
+1642,U.S. Naval Postgrad School,Monterey
+1643,Ukiah,Mendocino
+1644,Union City,Alameda
+1645,Universal City,Los Angeles
+1646,University,Santa Barbara
+1647,University Park,Orange
+1648,Upland,San Bernardino
+1649,Upper Lake/ Upper Lake Valley,Lake
+1650,Vacaville,Solano
+1651,Val Verde Park,Los Angeles
+1652,Valencia,Los Angeles
+1653,Valinda,Los Angeles
+1654,Vallecito,Calaveras
+1655,Vallejo,Solano
+1656,Valley Center,San Diego
+1657,Valley Fair,Santa Clara
+1658,Valley Ford,Sonoma
+1659,Valley Home,Stanislaus
+1660,Valley Springs,Calaveras
+1661,Valley Village,Los Angeles
+1662,Valyermo,Los Angeles
+1663,Van Nuys,Los Angeles
+1664,Vandenberg A.F.B,Santa Barbara
+1665,Vasquez Rocks,Los Angeles
+1666,Venice,Los Angeles
+1667,Ventucopa,Santa Barbara
+1668,Ventura,Ventura
+1669,Verdugo City,Los Angeles
+1670,Vernalis,San Joaquin
+1671,Vernon,Los Angeles
+1672,Veteran's Hospital,Los Angeles
+1673,Victor,San Joaquin
+1674,Victorville,San Bernardino
+1675,Vidal,San Bernardino
+1676,View Park,Los Angeles
+1677,Villa Grande,Sonoma
+1678,Villa Park,Orange
+1679,Vina,Tehama
+1680,Vincent,Los Angeles
+1681,Vineburg,Sonoma
+1682,Vinton,Plumas
+1683,Virgilia,Plumas
+1684,Visalia,Tulare
+1685,Vista Park,Kern
+1686,Vista,San Diego
+1687,Volcano,Amador
+1688,Volta,Merced
+1689,Wallace,Calaveras
+1690,Walnut Creek,Contra Costa
+1691,Walnut Grove,Sacramento
+1692,Walnut Park,Los Angeles
+1693,Walnut,Los Angeles
+1694,Warm Springs,Alameda
+1695,Warner Springs,San Diego
+1696,Wasco,Kern
+1697,Waterford,Stanislaus
+1698,Watsonville,Santa Cruz
+1699,Watts,Los Angeles
+1700,Waukena,Tulare
+1701,Wawona,Mariposa
+1702,Weaverville,Trinity
+1703,Weed,Siskiyou
+1704,Weimar,Placer
+1705,Weldon,Kern
+1706,Wendel,Lassen
+1707,Weott,Humboldt
+1708,West Covina,Los Angeles
+1709,West Hills,Los Angeles
+1710,West Hollywood,Los Angeles
+1711,West Los Angeles,Los Angeles
+1712,West Pittsburg,Contra Costa
+1713,West Point,Calaveras
+1714,West Sacramento,Yolo
+1715,Westchester,Los Angeles
+1716,Westend,San Bernardino
+1717,Westhaven,Humboldt
+1718,Westlake,Los Angeles
+1719,Westlake Village ,Ventura
+1720,Westley,Stanislaus
+1721,Westminster,Orange
+1722,Westmorland,Imperial
+1723,Westport,Mendocino
+1724,Westside,Stanislaus
+1725,Westwood,Lassen
+1726,Westwood,Los Angeles
+1727,Wheatland,Yuba
+1728,Wheeler Ridge,Kern
+1729,Whiskeytown,Shasta
+1730,Whispering Pines,Lake
+1731,White Pines,Calaveras
+1732,Whitethorn,Humboldt
+1733,Whitewater,Riverside
+1734,Whitlow,Humboldt
+1735,Whitmore,Shasta
+1736,Whittier,Los Angeles
+1737,Wildomar,Riverside
+1738,Wildwood,Shasta
+1739,Williams,Colusa
+1740,Willits,Mendocino
+1741,Willow Creek,Humboldt
+1742,Willow Ranch,Modoc
+1743,Willowbrook,Los Angeles
+1744,Willows,Glenn
+1745,Wilmington,Los Angeles
+1746,Wilseyville,Calaveras
+1747,Wilsona Gardens,Los Angeles
+1748,Wilton,Sacramento
+1749,Winchester,Riverside
+1750,Windsor Hills,Los Angeles
+1751,Windsor,Sonoma
+1752,Winnetka,Los Angeles
+1753,Winterhaven,Imperial
+1754,Winters,Yolo
+1755,Winton,Merced
+1756,Wishon,Madera
+1757,Witter Springs,Lake
+1758,Wofford Heights,Kern
+1759,Woodacre,Marin
+1760,Woodbridge,San Joaquin
+1761,Woodfords,Alpine
+1762,Woodlake,Tulare
+1763,Woodland,Yolo
+1764,Woodland Hills,Los Angeles
+1765,Woodleaf,Yuba
+1766,Woodside,San Mateo
+1767,Woodville,Tulare
+1768,Woody,Kern
+1769,Wrightwood,San Bernardino
+1770,Yankee Hill,Butte
+1771,Yermo,San Bernardino
+1772,Yettem,Tulare
+1773,Yolo,Yolo
+1774,Yorba Linda,Orange
+1775,Yorkville,Mendocino
+1776,Yosemite Lodge,Mariposa
+1777,Yosemite National Park,Mariposa
+1778,Yountville,Napa
+1779,Yreka,Siskiyou
+1780,Yuba City,Sutter
+1781,Yucaipa,San Bernardino
+1782,Yucca Valley,San Bernardino
+1783,Zamora,Yolo
+1784,Zenia,Trinity
