@@ -14,6 +14,8 @@ views-view-field--Calif-BOE-Tax--feed-1--delivery-city-1.tpl.php  - template fil
 
 In the view, there is an additional Delivery City field, which we then check against the countybycity table.
 
+There is also a list of California tax rates within 2013_01_02_taxrate that need to be added as separate conditional actions.  See http://www.ubercart.org/issue/7644/conditional_actions_tax_miscalculation
+
 
  */
 
