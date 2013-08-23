@@ -57,5 +57,6 @@ $cities = array(
 	);
 
 $del_city = strtolower($order->delivery_city);
+$del_city = rtrim($del_city, " ");
 
 if (in_array($del_city, $cities)) return (TRUE); else return (FALSE);
