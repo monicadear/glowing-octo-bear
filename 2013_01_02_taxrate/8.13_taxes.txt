@@ -1,0 +1,18 @@
+////////////////////////////////////////////////
+// The following CA cities have a tax rate of
+// 8.13% effective 01.01.2013, per the CA 
+// Board Of Equalization
+
+$cities = array(
+	"ceres",
+	"nevada city",
+	"oakdale",
+	"point arena",
+	"truckee",
+	"ukiah",
+	"willits"
+	);
+
+$del_city = strtolower($order->delivery_city);
+
+if (in_array($del_city, $cities)) return (TRUE); else return (FALSE);

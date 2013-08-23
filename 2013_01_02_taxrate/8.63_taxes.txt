@@ -1,0 +1,48 @@
+
+////////////////////////////////////////////////
+// The following CA cities have a tax rate of
+// 8.63% effective 01.01.2013, per the CA 
+// Board Of Equalization
+
+$cities = array(
+	"almaden valley",
+"alviso",
+"blossom hill",
+"blossom valley",
+"cambrian park",
+"coyote",
+"cupertino",
+"fort bragg",
+"gilroy",
+"holy city",
+"lorre estates",
+"los altos hills",
+"los altos",
+"los gatos",
+"mare island",
+"milpitas",
+"moffett field",
+"monta vista",
+"monte sereno",
+"morgan hill",
+"mount hamilton",
+"mountain view",
+"new almaden",
+"palo alto",
+"permanente",
+"redwood estates",
+"san jose",
+"san martin",
+"san tomas",
+"santa clara",
+"saratoga",
+"stanford",
+"sunnyvale",
+"vallejo",
+"valley fair"
+	);
+
+$del_city = strtolower($order->delivery_city);
+
+if (in_array($del_city, $cities)) return (TRUE); else return (FALSE);
+

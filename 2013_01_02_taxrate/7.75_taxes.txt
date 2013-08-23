@@ -1,0 +1,15 @@
+////////////////////////////////////////////////
+// The following CA cities have a tax rate of
+// 7.75% effective 01.01.2013, per the CA 
+// Board Of Equalization
+
+$cities = array(
+	"mount shasta",
+	"mt shasta",
+	"mt. shasta",
+	);
+
+$del_city = strtolower($order->delivery_city);
+
+if (in_array($del_city, $cities)) return (TRUE); else return (FALSE);
+

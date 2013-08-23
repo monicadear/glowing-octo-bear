@@ -1,0 +1,61 @@
+////////////////////////////////////////////////
+// The following CA cities have a tax rate of
+// 8.23% effective 01.01.2013, per the CA 
+// Board Of Equalization
+
+$cities = array(
+	"auberry",
+	"barton",
+	"big creek",
+	"biola",
+	"burrel",
+	"calwa",
+	"cantua creek",
+	"cardwell",
+	"caruthers",
+	"cedar crest",
+	"clinter",
+	"clovis",
+	"coalinga",
+	"del rey",
+	"dinkey creek",
+	"dunlap",
+	"easton",
+	"fancher",
+	"fig garden village",
+	"firebaugh",
+	"five points",
+	"fowler",
+	"fresno",
+	"friant",
+	"helm",
+	"herndon",
+	"highway city",
+	"hume",
+	"huntington lake",
+	"huron",
+	"kerman",
+	"kingsburg",
+	"lakeshore",
+	"laton",
+	"malaga",
+	"mendota",
+	"miramonte",
+	"mono hot springs",
+	"orange cove",
+	"parlier",
+	"piedra",
+	"pinedale",
+	"prather",
+	"raisin city",
+	"riverdale",
+	"san joaquin",
+	"shaver lake",
+	"squaw valley",
+	"tollhouse",
+	"tranquillity"
+	);
+
+$del_city = strtolower($order->delivery_city);
+
+if (in_array($del_city, $cities)) return (TRUE); else return (FALSE);

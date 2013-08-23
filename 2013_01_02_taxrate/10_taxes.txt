@@ -1,0 +1,13 @@
+////////////////////////////////////////////////
+// The following CA cities have a tax rate of
+// 10.00% effective 01.01.2013, per the CA 
+// Board Of Equalization
+
+$cities = array(
+		"pico rivera",
+		"south gate"
+		);
+
+$del_city = strtolower($order->delivery_city);
+
+if (in_array($del_city, $cities)) return (TRUE); else return (FALSE);

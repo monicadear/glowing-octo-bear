@@ -1,0 +1,77 @@
+////////////////////////////////////////////////
+// The following CA cities have a tax rate of
+// 7.63% effective 01.01.2013, per the CA 
+// Board Of Equalization
+
+$cities = array(
+	"benicia",
+	"birds landing",
+	"boonville",
+	"branscomb",
+	"calpella",
+	"caspar",
+	"cedar ridge",
+	"chicago park",
+	"comptche",
+	"covelo";
+	"crows landing",
+	"cummings",
+	"dairy farm",
+	"denair",
+	"dixon",
+	"dos rios",
+	"el viejo",
+	"elk",
+	"elmira",
+	"empire",
+	"fairfield",
+	"floriston",
+	"grass valley",
+	"gualala",
+	"hickman",
+	"hopland",
+	"hughson",
+	"keyes",
+	"knights ferry",
+	"la grange",
+	"lake city",
+	"larwin plaza",
+	"laytonville",
+	"leggett",
+	"liberty farms",
+	"littleriver",
+	"mendocino",
+	"modesto",
+	"navarro",
+	"newman",
+	"norden",
+	"north san juan",
+	"patterson",
+	"penn valley",
+	"philo",
+	"piercy",
+	"potter valley",
+	"redwood valley",
+	"rio vista",
+	"riverbank",
+	"rough and ready",
+	"salida",
+	"soda springs",
+	"spyrock",
+	"suisun city",
+	"talmage",
+	"travis a.f.b.",
+	"turlock",
+	"vacaville",
+	"valley home",
+	"waterford",
+	"westley",
+	"westport",
+	"westside",
+	"yorkville"
+	);
+
+$del_city = strtolower($order->delivery_city);
+
+if (in_array($del_city, $cities)) return (TRUE); else return (FALSE);
+

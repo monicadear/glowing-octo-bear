@@ -1,0 +1,31 @@
+
+////////////////////////////////////////////////
+// The following CA cities have a tax rate of
+// 8.75% effective 01.01.2013, per the CA 
+// Board Of Equalization
+
+$cities = array(
+	"cotati",
+	"dinuba",
+	"fairfax",
+	"hamilton a.f.b.",
+	"hamilton afb",
+	"ignacio",
+	"la mesa",
+	"novato",
+	"presidio",
+	"rohnert park",
+	"san francisco",
+	"san mateo",
+	"san rafael",
+	"santa cruz",
+	"santa rosa",
+	"seabright",
+	"sonoma"
+	);
+
+$del_city = strtolower($order->delivery_city);
+
+if (in_array($del_city, $cities)) return (TRUE); else return (FALSE);
+
+
